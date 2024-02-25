@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive-taxonomies
 toc: true
 title: "[OS] 운영체제의 개념과 기초"
 categories: CS
