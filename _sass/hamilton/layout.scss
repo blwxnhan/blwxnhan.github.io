@@ -92,7 +92,7 @@
   }
 
   input:checked ~ .trigger {
-    color: gray
+    color: gray;
     padding-bottom: 5px;
   }
 
@@ -128,7 +128,7 @@
   }
 
   .current-page {
-    // text-decoration: line-through;
+    text-decoration: line-through;
   }
 
   @media screen and (min-width: $on-medium) {
