@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: post
 toc: true
 title: "[OS] 운영체제의 개념과 기초"
-categories: CS
+categories: CS 
 tags: [CS, 운영체제]
 author:
   - bowon han
