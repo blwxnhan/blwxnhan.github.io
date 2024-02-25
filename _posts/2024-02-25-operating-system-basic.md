@@ -46,9 +46,7 @@ author:
 ***
 이제 운영체제의 구조에 대해 알아보겠습니다. 
 
-_site/images/qhdnjs.jpeg
-
-![컴퓨터의 구조](_site/images/os-basic-1.jpeg)
+![컴퓨터의 구조](_site/images/os-basic-1.png)
 
 위 그림에서 운영체제는 **커널**, **인터페이스**, **시스템콜**, **드라이버**를 포함합니다. 
 그 중 시스템콜과 드라이버는 커널에 속해있으므로 가장 크게보면 **커널**과 **인터페이스**로 이루져있다고 볼 수 있죠.
@@ -64,9 +62,9 @@ _site/images/qhdnjs.jpeg
 
 자 그럼 Unix 운영체제를 한번 살펴보겠습니다! 
 **Unix의 인터페이스**는 
-![](_site/images/os-basic-2.jpeg)다음과 같은 **명령어 기반인 셸**로 이루어져 있습니다. 
+![](_site/images/os-basic-2.png)다음과 같은 **명령어 기반인 셸**로 이루어져 있습니다. 
 
-![](_site/images/os-basic-3.jpeg)그리고 **Mac OS** 또한, Unix 기반의 커널을 사용하여 만든 운영체제입니다. 
+![](_site/images/os-basic-3.png)그리고 **Mac OS** 또한, Unix 기반의 커널을 사용하여 만든 운영체제입니다. 
 
 같은 커널을 사용했지만 다른 화면을 볼 수 있죠? 
 
@@ -87,7 +85,7 @@ _site/images/qhdnjs.jpeg
 프로세스의 개념은 나중에 자세히 살펴보도록 하고 지금은 **하나의 프로그램**이라고 생각합시다. 
 
 아까 보았던 구조를 다시보면
-![](_site/images/os-basic-4.jpeg)
+![](_site/images/os-basic-4.png)
 인터페이스와 커널 사이에 하나의 선이 존재합니다. 
 
 운영체제의 역할 부분에서 **운영체제는 중재자!** 라고 말했죠?
@@ -117,9 +115,10 @@ _site/images/qhdnjs.jpeg
 <br>
 
 이해를 돕기 위해
-~~~swift
+``` swift
 print("I love MAC")
-~~~
+```
+
 swift의 print 함수로 <span style="color: green">"I love MAC"</span> 이라는 문자열을 모니터에 출력하는 과정을 생각해봅시다. (**앱등이에용**🙋🏻‍♀️) 
 
 
@@ -142,7 +141,7 @@ system call은 user 모드와 kernel 모드를 연결하고..
 그럼 **하드웨어랑은 어떻게 연결**하지??
 
 마지막으로 아까 보았던 구조를 보도록 하겠습니다.
-![](_site/images/os-basic-5.jpeg)
+![](_site/images/os-basic-5.png)
 
 
 그림에서 볼 수 있듯이 **커널과 하드웨어의 인터페이스 역할은 드라이버**가 하고 있습니다.
