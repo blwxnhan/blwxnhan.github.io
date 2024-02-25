@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "운영체제란?"
 date:   2024-02-25 18:41:41 +0900
 categories: jekyll update
 ---
