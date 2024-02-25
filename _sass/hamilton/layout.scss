@@ -92,7 +92,7 @@
   }
 
   input:checked ~ .trigger {
-    // display: block;
+    color: gray
     padding-bottom: 5px;
   }
 
