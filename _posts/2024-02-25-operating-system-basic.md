@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "[OS]운영체제의 개념과 기초"
+title: "[OS] 운영체제의 개념과 기초"
 categories: CS
 tags: [CS, 운영체제]
 author:
@@ -116,9 +116,7 @@ author:
 <br>
 
 이해를 돕기 위해
-<!-- ~~~swift
-print("I love MAC")
-~~~ -->
+
 swift의 print 함수로 <span style="color: green">"I love MAC"</span> 이라는 문자열을 모니터에 출력하는 과정을 생각해봅시다. (**앱등이에용**🙋🏻‍♀️) 
 
 
@@ -158,6 +156,7 @@ system call은 user 모드와 kernel 모드를 연결하고..
   
 통신을 하면 실제로 선으로 연결되어있던 모니터에 <span style="color: green">"I love MAC"</span> 가 출력되게 되면서 출력의 모든 과정이 마무리됩니다. 
   
+
 # 마무리하며..✨
 ***
 운영체제의 기본적인 개념과 구조에 대해 알아보았습니다!
