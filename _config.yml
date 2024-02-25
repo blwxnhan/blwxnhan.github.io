@@ -29,9 +29,9 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
-  card: summary
+# twitter:
+#   username: ngzhio
+#   card: summary
 logo: qhdnjs.jpeg
 social:
   name: bowon han
