@@ -30,13 +30,13 @@ author:
 ***
 일단 해당 글에서는 UICollectionViewListCell의 ```UICellAccessory``` 에 대해서만 자세하게 다루고 있습니다. 
 
-내가 필요했던 accessory는 
+제가 필요했던 accessory는 
 
 ![](/images/ios-uicollectionviewlistcell-2.png)
 
 바로 이것입니다!
 
-해당 accessory는 displayed의 기본값이 .whenEditing으로 따로 파라미터 없이 생성할 시 ```collectionView.isEditing = true``` 편집모드를 true로 바꿔주어야 보이게 됩니다. 
+해당 accessory는 displayed의 기본값이 ```.whenEditing```으로 따로 파라미터 없이 생성할 시 ```collectionView.isEditing = true``` 편집모드를 true로 바꿔주어야 보이게 됩니다. 
 
 제가 딱 원하던... 것을 발견한 것입니다!!
 
