@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "[iOS] 연산 프로퍼티"
+title: "[iOS] swift 연산 프로퍼티(get,set)"
 categories: iOS
 tags: [TIL, iOS]
 author:
