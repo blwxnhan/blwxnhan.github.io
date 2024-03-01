@@ -196,7 +196,8 @@
  * Site sidebar
  */
 .site-sidebar {
-  padding: $spacing-unit;
+  padding-top: $spacing-unit;
+  padding-right: $spacing-unit;
   border-right: 1px solid;
   @include relative-font-size(0.8);
 
@@ -319,7 +320,7 @@ ul.social-icons {
  * Site main
  */
 .site-main {
-  flex: 1 0 auto;
+  // flex: 1 0 auto;
   overflow-y: scroll;
 
   // Hide scrollbar for IE, Edge and Firefox

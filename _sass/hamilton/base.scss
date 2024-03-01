@@ -192,13 +192,15 @@ ul.task-list {
 .wrapper {
   max-width: calc(#{$content-width} - (#{$spacing-unit}));
   margin-right: auto;
-  margin-left: auto;
+  margin-left: 50px;
   padding-right: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2; 
 
   @media screen and (min-width: $on-large) {
-    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width: 1400px;
+    // max-width: calc(#{$content-width} - (#{$spacing-unit} * 2)); 
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
   }
 }
+
