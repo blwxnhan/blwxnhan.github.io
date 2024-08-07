@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "[iOS] RequestInterceptor를 통한 자동로그인을 구현해보자!"
+title: "[iOS] RequestInterceptor를 통한 자동로그인(토큰 재발급)을 구현해보자!"
 categories: iOS
 tags: [iOS]
 author:
