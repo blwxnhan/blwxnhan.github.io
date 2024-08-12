@@ -91,5 +91,5 @@ innerCustomView를 stackView(**내부 View**)로 감싸 **stackView에 cornerRad
 
 ## 참고 📜
 ***
-[https://woongsios.tistory.com/54](https://woongsios.tistory.com/54)
+- [https://woongsios.tistory.com/54](https://woongsios.tistory.com/54)
 

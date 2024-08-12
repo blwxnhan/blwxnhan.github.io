@@ -144,5 +144,5 @@ AF.request(request, interceptor: APIInterceptor.shared)
 
 ## 참고 📜
 ***
-[https://ios-development.tistory.com/730](https://ios-development.tistory.com/730)
+- [https://ios-development.tistory.com/730](https://ios-development.tistory.com/730)
 
