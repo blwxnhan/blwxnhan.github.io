@@ -18,8 +18,8 @@ skin: daylight
 # google_analytics: 
 
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
-# 
-# disqus:
+
+disqus: comment
 
 # Jekyll
 # ======
