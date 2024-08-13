@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: "[iOS] UICollectionView Pagination(페이징)"
 categories: iOS 
-tags: [coordinator, iOS]
+tags: [TIL, iOS, UIKit]
 author:
   - bowon han
 ---
