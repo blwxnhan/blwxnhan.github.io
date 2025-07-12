@@ -174,3 +174,8 @@ Image(systemName: "globe")
 ## 👀 느낀점 및 배운점
 이전에 테두리에 색을 줄때 `overlay` modifier를 사용하곤 했는데 **"아 뷰를 쌓아서 위에 테두리를 올려주는구나. 그렇게 쓰면 되겠다"** 하고 썼었는데 생각해보니 **`ZStack`도 뷰를 쌓기 위한것임은 같은데 왜 `ZStack`으로 해볼 생각은 못했지?** 하는 생각이 들었다. <br>
 각각의 modifier가 왜 쓰이는지 알고, 명확하게 써야할 부분에만 작성하는 습관을 들여야겠다! 
+
+## 참고 📝
+***
+- [https://developer.apple.com/documentation/swiftui/zstack](https://developer.apple.com/documentation/swiftui/zstack)
+- [https://developer.apple.com/documentation/swiftui/view/overlay(alignment:content:)](https://developer.apple.com/documentation/swiftui/view/overlay(alignment:content:))
