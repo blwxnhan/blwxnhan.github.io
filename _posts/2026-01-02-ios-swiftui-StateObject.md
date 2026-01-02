@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "[iOS] StateObject와 ObservedObject"
+title: "[iOS] SwiftUI의 StateObject와 ObservedObject"
 categories: iOS 
 tags: [iOS, SwiftUI]
 author:
